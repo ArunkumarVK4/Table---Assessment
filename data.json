@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Smith",
+    "age": 18,
+    "gender": "Male",
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "2",
+    "name": "Johnson",
+    "age": 20,
+    "gender": "Male",
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "3",
+    "name": "Jessica",
+    "age": 23,
+    "gender": "Female",
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "4",
+    "name": "Harris",
+    "age": 20,
+    "gender": "Male",
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "5",
+    "name": "Clark",
+    "age": 25,
+    "gender": "Male",
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "6",
+    "name": "Laura",
+    "age": 30,
+    "gender": "Female",
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "7",
+    "name": "Ronald",
+    "age": 26,
+    "gender": "Male",
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "8",
+    "name": "Helen",
+    "age": 30,
+    "gender": "Male",
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "9",
+    "name": "Edward",
+    "age": 23,
+    "gender": "Male",
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "10",
+    "name": "Carol",
+    "age": 20,
+    "gender": "Male",
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "11",
+    "name": "Steven",
+    "age": 22,
+    "gender": "Male",
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "12",
+    "name": "Lee",
+    "age": 32,
+    "gender": "Male",
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "13",
+    "name": "Janet",
+    "age": 24,
+    "gender": "Male",
+    "bloodGroup": "A+"
+  },
+  {
+    "id": "14",
+    "name": "Catherine",
+    "age": 20,
+    "gender": "Male",
+    "bloodGroup": "B+"
+  },
+  {
+    "id": "15",
+    "name": "Jack",
+    "age": 27,
+    "gender": "Male",
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "16",
+    "name": "Justin",
+    "age": 28,
+    "gender": "Male",
+    "bloodGroup": "AB+"
+  },
+  {
+    "id": "17",
+    "name": "Katherine",
+    "age": 25,
+    "gender": "Male",
+    "bloodGroup": "O-"
+  },
+  {
+    "id": "18",
+    "name": "Benjamin",
+    "age": 30,
+    "gender": "Male",
+    "bloodGroup": "AB-"
+  },
+  {
+    "id": "19",
+    "name": "Christina",
+    "age": 23,
+    "gender": "Male",
+    "bloodGroup": "O+"
+  },
+  {
+    "id": "20",
+    "name": "Jeremy",
+    "age": 50,
+    "gender": "Male",
+    "bloodGroup": "B+"
+  }
+]

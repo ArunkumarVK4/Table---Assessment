@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+th {
+  padding: 20px;
+  background-color: rgb(16, 169, 230);
+  text-align: left;
+  font-size: 20px;
+}
+td {
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+#summary {
+  font-weight: bold;
+  font-size: 16px;
+}
+div {
+  width: 50%;
+  margin: 50px auto;
+}
+
+div li {
+  padding: 5px;
+}
+
+h2 {
+  color: red;
+}
